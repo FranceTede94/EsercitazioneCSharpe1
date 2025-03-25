@@ -1,0 +1,14 @@
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\bin\Debug\net9.0\SECONDOESERCIZIO.exe
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\bin\Debug\net9.0\SECONDOESERCIZIO.deps.json
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\bin\Debug\net9.0\SECONDOESERCIZIO.runtimeconfig.json
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\bin\Debug\net9.0\SECONDOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\bin\Debug\net9.0\SECONDOESERCIZIO.pdb
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\obj\Debug\net9.0\SECONDOESERCIZIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\obj\Debug\net9.0\SECONDOESERCIZIO.AssemblyInfoInputs.cache
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\obj\Debug\net9.0\SECONDOESERCIZIO.AssemblyInfo.cs
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\obj\Debug\net9.0\SECONDOESERCIZIO.csproj.CoreCompileInputs.cache
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\obj\Debug\net9.0\SECONDOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\obj\Debug\net9.0\refint\SECONDOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\obj\Debug\net9.0\SECONDOESERCIZIO.pdb
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\obj\Debug\net9.0\SECONDOESERCIZIO.genruntimeconfig.cache
+C:\Users\f.tedesco\Desktop\SECONDOESERCIZIO\SECONDOESERCIZIO\obj\Debug\net9.0\ref\SECONDOESERCIZIO.dll
